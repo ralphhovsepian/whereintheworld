@@ -66,7 +66,7 @@ export class App extends React.Component {
           <Switch>
             <Route
               exact
-              path='/'
+              path='/whereintheworld/'
               render={() => (
                 <React.Fragment>
                   <Inputs
