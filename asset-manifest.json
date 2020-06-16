@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/whereintheworld/static/css/main.e64b84ed.chunk.css",
-    "main.js": "/whereintheworld/static/js/main.b20d2fa1.chunk.js",
-    "main.js.map": "/whereintheworld/static/js/main.b20d2fa1.chunk.js.map",
+    "main.js": "/whereintheworld/static/js/main.92d228c3.chunk.js",
+    "main.js.map": "/whereintheworld/static/js/main.92d228c3.chunk.js.map",
     "runtime-main.js": "/whereintheworld/static/js/runtime-main.3c803550.js",
     "runtime-main.js.map": "/whereintheworld/static/js/runtime-main.3c803550.js.map",
     "static/js/2.841ba76a.chunk.js": "/whereintheworld/static/js/2.841ba76a.chunk.js",
     "static/js/2.841ba76a.chunk.js.map": "/whereintheworld/static/js/2.841ba76a.chunk.js.map",
     "index.html": "/whereintheworld/index.html",
-    "precache-manifest.9a8dc9a66350a3afe4e37bacb0be1d66.js": "/whereintheworld/precache-manifest.9a8dc9a66350a3afe4e37bacb0be1d66.js",
+    "precache-manifest.70ddb1f77fd635d231e598f58d917c82.js": "/whereintheworld/precache-manifest.70ddb1f77fd635d231e598f58d917c82.js",
     "service-worker.js": "/whereintheworld/service-worker.js",
     "static/css/main.e64b84ed.chunk.css.map": "/whereintheworld/static/css/main.e64b84ed.chunk.css.map",
     "static/js/2.841ba76a.chunk.js.LICENSE.txt": "/whereintheworld/static/js/2.841ba76a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3c803550.js",
     "static/js/2.841ba76a.chunk.js",
     "static/css/main.e64b84ed.chunk.css",
-    "static/js/main.b20d2fa1.chunk.js"
+    "static/js/main.92d228c3.chunk.js"
   ]
 }
