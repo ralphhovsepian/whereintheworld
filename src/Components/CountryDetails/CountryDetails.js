@@ -25,7 +25,7 @@ export class CountryDetails extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <Link to='/'>
+        <Link to='/whereintheworld/'>
           <button className='back'>
             <FontAwesomeIcon icon={faArrowLeft} />
             &nbsp; Back
