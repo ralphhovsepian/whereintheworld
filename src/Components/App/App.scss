@@ -1,0 +1,27 @@
+$lightgrey: hsl(0, 0%, 98%);
+
+body {
+  background-color: $lightgrey;
+}
+
+.dark-mode {
+  background-color: hsl(207, 26%, 17%);
+
+  input,
+  select,
+  nav,
+  .list,
+  .back {
+    background-color: hsl(209, 23%, 22%);
+    box-shadow: 1px 1px hsl(209, 23%, 22%);
+  }
+  * {
+    color: #fff;
+  }
+  ::placeholder {
+    color: #fff;
+  }
+  span {
+    color: #fff;
+  }
+}

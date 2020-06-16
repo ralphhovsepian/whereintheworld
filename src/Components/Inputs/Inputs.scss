@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;600;800&display=swap');
+
+$lightgrey: hsl(0, 0%, 98%);
+$white: hsl(0, 0%, 100%);
+$lighttext: hsl(200, 15%, 8%);
+
+* {
+  margin: 0;
+  font-family: 'Nunito Sans', sans-serif;
+  color: $lighttext;
+  text-decoration: none;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 5%;
+}
+
+input,
+select {
+  border: 0;
+  box-shadow: 1px 1px 1px 1px rgba(211, 211, 211, 0.3);
+  width: 250px;
+  height: 50px;
+  border-radius: 2px;
+}
+
+input,
+select:focus {
+  outline: none;
+}
+
+::placeholder {
+  color: $lighttext;
+}
+
+@media screen and (max-width: 560px) {
+  .inputs {
+    justify-content: center;
+  }
+  input,
+  select {
+    margin: 10px;
+  }
+}

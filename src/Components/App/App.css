@@ -1,0 +1,42 @@
+body {
+  background-color: #fafafa;
+}
+
+.dark-mode {
+  background-color: #202c37;
+}
+
+.dark-mode input,
+.dark-mode select,
+.dark-mode nav,
+.dark-mode .list,
+.dark-mode .back {
+  background-color: #2b3945;
+  -webkit-box-shadow: 1px 1px #2b3945;
+          box-shadow: 1px 1px #2b3945;
+}
+
+.dark-mode * {
+  color: #fff;
+}
+
+.dark-mode ::-webkit-input-placeholder {
+  color: #fff;
+}
+
+.dark-mode :-ms-input-placeholder {
+  color: #fff;
+}
+
+.dark-mode ::-ms-input-placeholder {
+  color: #fff;
+}
+
+.dark-mode ::placeholder {
+  color: #fff;
+}
+
+.dark-mode span {
+  color: #fff;
+}
+/*# sourceMappingURL=App.css.map */
